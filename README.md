@@ -1,2 +1,3 @@
 # FILEPRO
-Fridays Upload Inshallah
+
+python3 :)
