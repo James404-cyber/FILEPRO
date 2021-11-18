@@ -45,7 +45,7 @@ $ pkg install git
 $ git clone https://github.com/James404-cyber/FILEPRO.git
 $ cd FILEPRO
 $ git pull
-$ python2 Filepro.py
+$ python Filepro.py
 
 Api Key : Hello-Bro
 
