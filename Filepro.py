@@ -8,6 +8,6 @@ if __name__ == "__main__":
 			print(" [?] Wellcome : ")
 			exit(" [!] Run : python Filepro.py remove")
 	try:
-		__import__("libme").__main_James()
+		__import__("Random").__main____start__()
 	except Exception as e:
 		exit(str(e))
