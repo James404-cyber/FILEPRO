@@ -40,6 +40,7 @@ $ pkg install python2
 $ pip install requests
 $ pip install mechanize
 $ pip install lolcat
+$ pip install rich
 $ pip install BeautifulSoup
 $ pkg install git
 $ git clone https://github.com/James404-cyber/FILEPRO.git
