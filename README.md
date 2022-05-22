@@ -45,11 +45,11 @@ $ pip install BeautifulSoup
 $ pkg install git
 $ git clone https://github.com/James404-cyber/FILEPRO.git
 $ cd FILEPRO
-$ git pull
 $ python Filepro.py
 
 
-Api Key : 70 85 67 75 32 66 89 80 65 83 83 69 82
+
+
 
 
 Note: This One Paid Tools, So You Take First Approval For Using This Tools
