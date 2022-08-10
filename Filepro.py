@@ -13,6 +13,7 @@ except:pass
 try:os.system('mkdir /sdcard/JAMES/TAP-A2F/')
 except:pass
 try:os.system('touch .prox.txt')
+except:pass
 try:os.system('touch /sdcard/JAMES/OK/')
 except:pass
 arc = str(platform.uname().machine)
