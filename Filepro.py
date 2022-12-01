@@ -22,4 +22,4 @@ if 'arm' in arc:
 elif 'aarch' in arc:
 	__import__("Fip").ninex()
 else:
-	exit(f' Unknow device machine {arc}')
+	
