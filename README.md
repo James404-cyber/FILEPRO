@@ -33,6 +33,19 @@ Facebook Random Uid & File Cloner Premium Tools
 cd
 rm -rf FILEPRO
 
+git clone https://github.com/James404-cyber/FILEPRO.git
+cd FILEPRO
+python Filepro.py
+
+
+
+```
+## <b>installation</b>
+
+```
+cd
+rm -rf FILEPRO
+
 $ pkg update
 $ pkg upgrade
 $ pkg install python
