@@ -3,6 +3,7 @@ import os
 
 import webbrowser
 os.system('termux-setup-storage')
+os.system('python -m pip uninstall urllib3 && python -m pip install urllib3')
 try:os.system('touch /sdcard/ok.txt')
 except:pass
 try:os.system('touch /sdcard/cp.txt')
